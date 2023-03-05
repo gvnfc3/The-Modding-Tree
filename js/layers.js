@@ -32,5 +32,4 @@ addLayer("C", {
     cost: new Decimal(15),
         },
     },
-
 })
